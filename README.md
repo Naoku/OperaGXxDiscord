@@ -1,7 +1,7 @@
 # OperaGX x Discord
 Opera GX x Discord promotion gone wrong 
 
-##!it is highly recommended to use vpn!
+## !it is highly recommended to use vpn!
 
 # Needed 
 - python
