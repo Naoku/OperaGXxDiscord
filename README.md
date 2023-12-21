@@ -1,10 +1,13 @@
 # OperaGX x Discord
 Opera GX x Discord promotion gone wrong 
 
-## !it is highly recommended to use vpn!
+##  ⚠ it is highly recommended to use vpn ⚠
+# If it doesnt work 
+- if discord says that you already used that gift, clear cookies and create new discord nitro
+- if you cannot run check do you have python 3.9 or newer and have all needed packages 
 
 # Needed 
-- python
+- python 3.9+
 - requests (pip install requests)
 - brain
 - pc
